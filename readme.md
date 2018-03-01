@@ -1,10 +1,10 @@
-#Sparkling#
+# Sparkling
 
-##Geography##
+## Geography
 
 I live in the city of Beijing, the capital of China.
 
-##Reading##
+## Reading
 
 My favorite books are:
 
